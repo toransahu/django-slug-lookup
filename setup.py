@@ -78,7 +78,6 @@ setuptools.setup(
     ),
     classifiers=(
         "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.6",
         "Framework :: Django",
         "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
         "Operating System :: OS Independent",
@@ -95,7 +94,7 @@ setuptools.setup(
         "Natural Language :: English",
 
     ),
-    keywords="django model database sequence prefetch id",
+    keywords="django model database field lookup slug string",
     install_requires=(
         "django",
     ),

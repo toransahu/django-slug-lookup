@@ -9,7 +9,7 @@ __about__.py
 
 
 __title__ = 'django-slug-lookup'
-__description__ = 'Django Model String Field Lookup by converting string in slug.'
+__description__ = 'Django model string field lookup by automatically(internally) treating string as a slug.'
 __github__ = 'https://github.com/toransahu/django-slug-lookup'
 __pypi__ = 'https://pypi.org/project/django-slug-lookup'
 __version__ = '0.0.1'

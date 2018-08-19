@@ -1,2 +1,2 @@
 # django-slug-lookup
-Django Model String Field Lookup by converting string in slug
+Django model string field lookup by automatically(internally) treating string as a slug
